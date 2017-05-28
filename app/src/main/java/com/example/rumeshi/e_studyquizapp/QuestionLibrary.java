@@ -30,6 +30,31 @@ public class QuestionLibrary {
             "What is correct about Lower tail?",
             "Risk management based on :"
 
+            //hansini Questions
+            "What is correct about human blood types?",
+            "How many cell types in human blood?",
+            "The Whale is belongs to:",
+            "Some people can't identify ______ and______because of color blindness.",
+            "Which part is the most important to identify an object in human body?",
+            "Starfish is belongs to:",
+            "Snail is belongs to:",
+            "How many cells types in our eye?",
+            "Fish can breathe from_______.",
+            "Keratin is contains in:",
+
+
+            "What is the longest and widest river in the world?",
+            "Which country is famous for opera house?",
+            "Which country is famous for Anacondas?",
+            "Sir.Ananda Samarakoon is famous for __________ ",
+            "Sinharaja is a ________ in __________.",
+            "Germany is famous, because of __________.",
+            "Italy is famouse for: ",
+            "The flower Sakura is blooming in _________.",
+            "Mount Himalaya is situated in: ",
+            "Coconut tree is mostly growing in_________."
+
+
     };
 
 
