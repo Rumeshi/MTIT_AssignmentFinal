@@ -82,7 +82,34 @@ public class QuestionLibrary {
             {"Dar chart , Ar chart , Histrogram","Pie chart , Dar chart , Ur chart","Bar chart , Pie chart , Histrogram"},
             {"Inter Quartile Revange","Inter Qaurtile Range","Inter Quality Range"},
             {"Q1 - 1.5 * IQR","Q1 + 1.5 * IQR","Q1 -( 1.5 * IQR)"},
-            {"analysis and gathering","analysis and process","analysis and probability"}
+            {"analysis and gathering","analysis and process","analysis and probability"},
+
+            //hansini's choices added
+
+            {"O , ABB", "AB , A+", "O# , O-"},
+            {"4", "2", "3"},
+            {"Arthropoda", "Piscas", "Mammel"},
+            {"Pink & Yellow", "Green & Red", "Red & Black"},
+            {"Bones", "Brain", "Lever"},
+            {"Echinodermata", "Cylopoda", "Diplopoda"},
+            {"Mammalia", "Hungaria", "Mollusca"},
+            {"Three", "One", "Two"},
+            {"Lungs", "Skin", "Tail"},
+            {"Lungs", "Nails", "Nose"},
+
+
+            {"Amazon", "Nile", "Yangtze"},
+            {"America", "Argentina", "Australia"},
+            {"South America", "North America", "Africa"},
+            {"Indian national anthem", "Sri lankan national anthem", "Mongolian national anthem"},
+            {"River , Sri lanka", "Rain forest , Sri Lanka", "Mountain , Argentina"},
+            {"Hectar", "Hepler", "Hitler"},
+            {"Piscas", "Pissa", "Lissa"},
+            {"China", "Korea", "Japan"},
+            {"Taiwan", "Igypt", "India"},
+            {"Dry sand", "Wet sand", "Soil sand"}
+
+
 
     };
 
