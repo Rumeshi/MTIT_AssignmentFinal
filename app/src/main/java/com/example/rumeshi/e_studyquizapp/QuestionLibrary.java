@@ -114,7 +114,14 @@ public class QuestionLibrary {
     };
 
     private String mCorrectAnswers[] = {"Application Design","Procedural and Declarative","JAVA code , R.java class","8", "Nougat","char", "!", "array","Based on Java(dev lan.) and Linux(kernel)","wrap_content , match_parent",
-            "Mean , Median , Mode","Variance","average , middle","Range","Upper tail","R","Bar chart , Pie chart , Histrogram","Inter Qaurtile Range","Q1 - 1.5 * IQR","analysis and probability"};
+            "Mean , Median , Mode","Variance","average , middle","Range","Upper tail","R","Bar chart , Pie chart , Histrogram","Inter Qaurtile Range","Q1 - 1.5 * IQR","analysis and probability",
+
+    // hansini's correct answers added
+            "AB , A+","3","Mammel","Green & Red","Brain","Echinodermata","Mollusca","Two","Lungs","Nails",
+            "Amazon","Australia","South America","Sri lankan national anthem","Rain forest , Sri Lanka","Hitler","Pissa","Japan","India","Soil sand"
+    
+
+};
 
 
     public String getQuestion(int r) {
